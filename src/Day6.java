@@ -1,3 +1,4 @@
+// Day 6 from Hackerrank tutorials
 import java.util.Scanner;
 
 public class Day6 {
